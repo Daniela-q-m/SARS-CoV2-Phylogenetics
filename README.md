@@ -13,3 +13,7 @@ Biopython libraries were essential in the parsing and processing of data. The li
 The states were grouped by geographic region as defined by the United States census (1). Six regions were used to classify the states: Northeast, Southeast,Southwest, Mountain, Midwest, and Pacific.
 Once the states had been grouped by regions, a Multiple Sequence Alignment (MSA) was performed ClustalW installed on the local drive. .dnd and .aln (CLUSTAL alignment format) files were produced. The guide tree file (.dnd) was used in order to create the phylogenetic trees for each group directly on jupyter notebook. Matplotlib was used in order to manipulate the phylogenetic tree figure that was produced to fix the dimensions and text size. The phylogenetic trees that were produced were saved as a .png file and converted to a PDF. 
 
+The phylogenetic trees that were produced were quite large, a sample area of a tree is seen below:
+![image](https://user-images.githubusercontent.com/90015489/147884392-aa7abec8-5f13-4ec7-aed1-b331e5db7440.png)
+
+
